@@ -35,3 +35,31 @@ h1 {
   text-decoration: none;
   letter-spacing: 1px;
 }
+.posts {
+  max-width: 900px;
+  margin: 100px auto;
+  padding: 20px;
+}
+
+.post {
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.post img {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.post h2 {
+  color: #fff;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.post p {
+  color: #aaa;
+  font-size: 16px;
+  line-height: 1.8;
+}
